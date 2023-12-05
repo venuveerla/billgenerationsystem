@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "pid": "A5",
+      "pname": "dolo65",
+      "price": "5",
+      "id": 1
+    },
+    {
+      "pid": "A2",
+      "pname": "Aciclovir (Zovirax)",
+      "price": "10",
+      "id": 2
+    },
+    {
+      "pid": "B1",
+      "pname": "Alogliptig.",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "pid": "2",
+      "pname": "abc",
+      "price": "120",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "username": "Venu",
+      "password": "Veerla123",
+      "id": "Venu"
+    }
+  ]
+}
