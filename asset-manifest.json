@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/venuveerla.github.io/billgenerationsystem/static/css/main.4e9b308d.css",
+    "main.js": "/venuveerla.github.io/billgenerationsystem/static/js/main.7abd81cf.js",
+    "static/js/787.917857b7.chunk.js": "/venuveerla.github.io/billgenerationsystem/static/js/787.917857b7.chunk.js",
+    "index.html": "/venuveerla.github.io/billgenerationsystem/index.html",
+    "main.4e9b308d.css.map": "/venuveerla.github.io/billgenerationsystem/static/css/main.4e9b308d.css.map",
+    "main.7abd81cf.js.map": "/venuveerla.github.io/billgenerationsystem/static/js/main.7abd81cf.js.map",
+    "787.917857b7.chunk.js.map": "/venuveerla.github.io/billgenerationsystem/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9b308d.css",
+    "static/js/main.7abd81cf.js"
+  ]
+}
